@@ -40,9 +40,7 @@ The script is pre-configured to scrape data from the following categories on Tik
 - Đồ Chơi - Mẹ & Bé
 - Điện Thoại - Máy Tính Bảng
 - Làm Đẹp - Sức Khỏe
--
-
- Điện Gia Dụng
+- Điện Gia Dụng
 - Thời trang nữ
 - Thời trang nam
 - Giày - Dép nữ
